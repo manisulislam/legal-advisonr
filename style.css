@@ -29,3 +29,14 @@
     text-align: center;
 
 }
+.footer-section{
+    background-color: #18736D;
+}
+.company a{
+    text-decoration: none;
+    color: white;
+}
+.support a{
+    text-decoration: none;
+    color: white;
+}
